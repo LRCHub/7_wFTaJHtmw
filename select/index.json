@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "ヒッサツワザ",
+  "base_artist": "クレイジーウォウウォ!!",
+  "createdAt": "2026-03-26T05:24:19.112798Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒッサツワザ",
+      "artist": "クレイジーウォウウォ!!",
+      "has_synced": false,
+      "path": "select/pl_01_ヒッサツワザ_クレイジーウォウウォ!!.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ヒッサツワザ",
+      "artist": "クレイジーウォウウォ!!",
+      "has_synced": false,
+      "path": "select/localdb_01_ヒッサツワザ_クレイジーウォウウォ!!.txt",
+      "repo_name": "BMX0BgG9eSU"
+    }
+  ]
+}
